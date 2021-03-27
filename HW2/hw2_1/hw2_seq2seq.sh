@@ -1,1 +1,1 @@
-python infer.py $1 $2
+python seq2seq.py $1 $2
